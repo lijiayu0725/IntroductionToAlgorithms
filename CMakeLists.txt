@@ -3,4 +3,4 @@ project(IntroductionToAlgorithms)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(IntroductionToAlgorithms find_maximum_subarray.cpp)
+add_executable(IntroductionToAlgorithms head_sort.cpp)
