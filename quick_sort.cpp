@@ -36,8 +36,3 @@ void quick_sort(vector<int> &A, int p, int r) {
         quick_sort(A, q + 1, r);
     }
 }
-
-int main() {
-    vector<int> A = {2, 8, 7, 1, 3, 5, 6, 4};
-    quick_sort(A, 0, (int) A.size() - 1);
-}
