@@ -3,4 +3,4 @@ project(IntroductionToAlgorithms)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(IntroductionToAlgorithms tree_search.cpp)
+add_executable(IntroductionToAlgorithms dynamic_programming.cpp)
